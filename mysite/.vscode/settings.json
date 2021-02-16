@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "baza",
+            "database": "${workspaceFolder:mysite}/proSkript.sqlite",
+            "sqltools.useNodeRuntime": true
+        }
+    ]
+}
